@@ -3,6 +3,7 @@ C++ version of the classic game Dangerous Dave
 
 ## Images :
 
+![image](https://github.com/Varunram/Dave/blob/master/images/image10-27.png)
 ![image](https://github.com/Varunram/Dave/images/image2-25.png)
 ![image](https://github.com/Varunram/Dave/images/image3-15.png)
 ![image](https://github.com/Varunram/Dave/images/image4-17.png)
