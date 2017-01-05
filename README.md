@@ -14,10 +14,7 @@ C++ version of the classic MS-DOS game Dangerous Dave
 ![image](https://github.com/Varunram/Dave/blob/master/images/image10-27.png)
 
 ## Compile instructions
-Needs an IDE with <graphics.h>
+Needs an IDE with *graphics.h*
 
 ## Contributions
-Create a branch and send a pull request
-
-## License
-Free for use, but do mention the github link of the repo if you're using this in your project :)
+Contributions are welcome, please create a branch and send in a pull request
